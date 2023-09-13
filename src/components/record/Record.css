@@ -1,0 +1,29 @@
+
+.container
+{
+    background-color:rgb(14, 53, 59);
+    width:40%;
+    height: 200px;
+    margin: auto;
+}
+.record
+{
+    width: 20%;
+    margin: auto;
+    border-radius: 10px;
+    width: 70%;
+    height: 20%;
+}
+.btn
+{
+    display: flex;
+    height: 35px;
+    width: 25%;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 30px;
+    background-color: rgb(3, 15, 19);
+    color: white;
+    padding-top: 10px;
+    padding-left: 40px;
+}
